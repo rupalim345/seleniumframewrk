@@ -24,12 +24,12 @@ public class ContactTest {
 		System.out.println("fetch test1");
 	}
 	@Test
-	public void saveTest() {
+	public void test2() {
 		System.out.println("execute saveTest");
 	}
 	
 	@Test
-	public void deleteContactTest() {
+	public void test3() {
 		System.out.println("execute deleteContactTest");
 	}
 }
