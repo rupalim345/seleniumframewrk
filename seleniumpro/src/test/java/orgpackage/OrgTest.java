@@ -13,4 +13,9 @@ public class OrgTest {
 	public void test2() {
 		System.out.println("create test2");
 	}
+	
+	@Test
+	public void test3() {
+		System.out.println("create test3");
+	}
 }
