@@ -23,4 +23,9 @@ public class ContactTest {
 	public void test1() {
 		System.out.println("fetch test1");
 	}
+	
+	@Test
+	public void deleteContactTest() {
+		System.out.println("execute deleteContactTest");
+	}
 }
