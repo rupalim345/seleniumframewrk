@@ -23,6 +23,10 @@ public class ContactTest {
 	public void test1() {
 		System.out.println("fetch test1");
 	}
+	@Test
+	public void saveTest() {
+		System.out.println("execute saveTest");
+	}
 	
 	@Test
 	public void deleteContactTest() {
